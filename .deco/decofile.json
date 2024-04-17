@@ -244,5 +244,11 @@
     "theme": {
       "__resolveType": "Neutral"
     }
+  },
+  "pages-My%20New%20Page-151667": {
+    "name": "My New Page",
+    "sections": [],
+    "__resolveType": "website/pages/Page.tsx",
+    "path": "/teste"
   }
 }
